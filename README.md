@@ -1,6 +1,8 @@
 # Estrattore_volontari-completa
 Estrae volontari da una lista di nomi in modo pseudo casuale: la probabilità di essere estratti varia in base alla grandezza del punteggio assocato ad ogni nome
 
+visualizzare il file come è stato scritto(raw) altrimenti non si capisce bene
+
 FUNZIONAMENTO:
 il programma legge i dati scritti nel file Dati.txt e associa ad ogni alunno un punteggio eun valore vero/falso per ogni materia
 il programma chiede prima la materia per la quale estrarre (deve essere scritta nello stesso modo di quelle elencate nel file Intestazione.h)
